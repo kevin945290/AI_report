@@ -39,7 +39,8 @@ print(a)
 所以我們用了最新版本的掛載雲端方式，載入成功之後在左邊的檔案中多了一個dirve資料夾，如下圖:
 ![image](https://github.com/kevin945290/AI_report/blob/main/C.png)
 
-
+掛載完後，我們可以用命令"!ls"查看
+![image](https://github.com/kevin945290/AI_report/blob/main/D.png)
 
 
 
