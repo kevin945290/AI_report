@@ -48,5 +48,16 @@ print(a)
 用" os.chdir('../') "，可回到上級目錄，執行完後，目前工作目錄會回到上級目錄。之後我們再使用!ls指令來觀察
 ![image](https://github.com/kevin945290/AI_report/blob/main/F.png)
 
+將.py檔案和其它必要的檔案上傳到Google Drive
+![image](https://github.com/kevin945290/AI_report/blob/main/G.png)
+
+將工作目錄切換到.py檔案所在目錄
+![image](https://github.com/kevin945290/AI_report/blob/main/H.png)
+
+運行程式碼
+![image](https://github.com/kevin945290/AI_report/blob/main/I.png)
+
+
+
 
 
