@@ -15,5 +15,8 @@ print(a)
 !ls
 ![image](https://github.com/kevin945290/AI_report/blob/main/4.png)
 
-修改筆記本環境:硬件類型從CPU改成GPU
+修改筆記本環境
 ![image](https://github.com/kevin945290/AI_report/blob/main/5.png)
+
+硬件類型從CPU改成GPU
+![image](https://github.com/kevin945290/AI_report/blob/main/6.png)
