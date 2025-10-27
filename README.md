@@ -1,6 +1,6 @@
 # Google Colab－零成本玩轉深度學習
 ## 前言
-最近在學深度學習HyperLPR計畫時，由於一直沒有比較合適的設備訓練深度學習的模型，所以在網上想找到提供模型訓練，經過一段時間的搜索，最終發現了一個谷歌的產品--Google Colaboratory。它幾乎可以實現零成本玩深度學習，達到快速訓練模型的目的。
+最近在學深度學習HyperLPR計畫時，由於一直沒有比較合適的設備訓練深度學習的模型，所以在網上想找到提供模型訓練，經過一段時間的搜索，最終發現了一個谷歌的產品--Google Colaboratory。它幾乎可以實現零成本玩深度學習，達到快速訓練模型的目的。  
 
 Google Colaboratory是Google開放的一款深度學習的研究工具，主要用於深度學習的開發和研究。這款工具現在可以免費使用，但暫時還是無法確定是不是永久免費。 Google Colab最大的好處是給了廣大的AI開發者免費的GPU和TPU使用！ GPU型號是Tesla K80！你可以在上面輕鬆地跑例如：Keras、Tensorflow、Pytorch等框架。
 
@@ -12,13 +12,13 @@ Google Colaboratory是Google開放的一款深度學習的研究工具，主要�
 修改檔名，並點選"+程式碼"新增程式碼區塊
 ![image](https://github.com/kevin945290/AI_report/blob/main/2.png)
 
-現在，我們就可以在程式碼框中輸入一些程式碼。這裡注意，如果我們直接輸入程式碼，系統就會當作Python程式碼執行。例如我們輸入：
-a = 1
-print(a)
+現在，我們就可以在程式碼框中輸入一些程式碼。這裡注意，如果我們直接輸入程式碼，系統就會當作Python程式碼執行。例如我們輸入：  
+a = 1  
+print(a)  
 運行之後輸出框中會列印出"1"。
 ![image](https://github.com/kevin945290/AI_report/blob/main/3.png)
 
-如果想去執行系統指令，只需要在指令前加感嘆號!。例如我們輸入：
+如果想去執行系統指令，只需要在指令前加感嘆號!。例如我們輸入：  
 !ls
 ![image](https://github.com/kevin945290/AI_report/blob/main/4.png)
 
