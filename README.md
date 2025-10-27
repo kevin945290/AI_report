@@ -42,6 +42,11 @@ print(a)
 掛載完後，我們可以用命令"!ls"查看
 ![image](https://github.com/kevin945290/AI_report/blob/main/D.png)
 
+在Colab中cd指令是無效的，切換工作目錄使用chdir函數，執行完後，目前工作目錄會進入drive資料夾下。我們再使用!ls指令會發現系統輸出的是drive資料夾下的目錄
+![image](https://github.com/kevin945290/AI_report/blob/main/E.png)
+
+用" os.chdir('../') "，可回到上級目錄，執行完後，目前工作目錄會回到上級目錄。之後我們再使用!ls指令來觀察
+![image](https://github.com/kevin945290/AI_report/blob/main/F.png)
 
 
 
