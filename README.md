@@ -33,5 +33,14 @@ print(a)
 會發現上面的程式碼的授權網站也無法進入
 ![image](https://github.com/kevin945290/AI_report/blob/main/A.png)
 
+所以改用其他方式，一開始沒掛載雲端，如圖:
+![image](https://github.com/kevin945290/AI_report/blob/main/B.png)
+
+所以我們用了最新版本的掛載雲端方式，載入成功之後在左邊的檔案中多了一個dirve資料夾，如下圖:
+![image](https://github.com/kevin945290/AI_report/blob/main/C.png)
+
+
+
+
 
 
