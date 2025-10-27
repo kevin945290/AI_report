@@ -15,3 +15,4 @@ print(a)
 !ls
 ![image](https://github.com/kevin945290/AI_report/blob/main/4.png)
 
+#前期配置
