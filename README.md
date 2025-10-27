@@ -20,3 +20,18 @@ print(a)
 
 硬件類型從CPU改成GPU
 ![image](https://github.com/kevin945290/AI_report/blob/main/6.png)
+
+連接Google drive:首先在儲存格中輸入並執行以下命令，會出現2次校驗
+![image](https://github.com/kevin945290/AI_report/blob/main/7.png)
+
+會發現上面的程式碼的授權網站無法進入,因為版本過舊
+![image](https://github.com/kevin945290/AI_report/blob/main/8.png)
+
+掛載Google Drive程式碼：
+![image](https://github.com/kevin945290/AI_report/blob/main/9.png)
+
+會發現上面的程式碼的授權網站也無法進入
+![image](https://github.com/kevin945290/AI_report/blob/main/A.png)
+
+
+
