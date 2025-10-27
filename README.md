@@ -22,6 +22,7 @@ print(a)
 !ls  
 ![image](https://github.com/kevin945290/AI_report/blob/main/4.png)
 
+## 前期配置
 修改筆記本環境
 ![image](https://github.com/kevin945290/AI_report/blob/main/5.png)
 
@@ -49,22 +50,29 @@ print(a)
 掛載完後，我們可以用命令"!ls"查看
 ![image](https://github.com/kevin945290/AI_report/blob/main/D.png)
 
+## 更改工作目錄
 在Colab中cd指令是無效的，切換工作目錄使用chdir函數，執行完後，目前工作目錄會進入drive資料夾下。我們再使用!ls指令會發現系統輸出的是drive資料夾下的目錄
 ![image](https://github.com/kevin945290/AI_report/blob/main/E.png)
 
 用" os.chdir('../') "，可回到上級目錄，執行完後，目前工作目錄會回到上級目錄。之後我們再使用!ls指令來觀察
 ![image](https://github.com/kevin945290/AI_report/blob/main/F.png)
 
-將.py檔案和其它必要的檔案上傳到Google Drive
+## 運行自己的程式碼
+### 1.將.py檔案和其它必要的檔案上傳到Google Drive
 ![image](https://github.com/kevin945290/AI_report/blob/main/G.png)
 
-將工作目錄切換到.py檔案所在目錄
+### 2.將工作目錄切換到.py檔案所在目錄
 ![image](https://github.com/kevin945290/AI_report/blob/main/H.png)
 
-運行程式碼
+### 3.運行程式碼
 ![image](https://github.com/kevin945290/AI_report/blob/main/I.png)
 
+### 4.注意事項  
+Linux系統下檔案路徑使用'/'而不是'\'  
 
-
+## 總結
+1.可以把Google Colab看成是一台有GPU或TPU的Ubuntu虛擬機，只不過我們只能用命令列的方式操作它。你可以選擇執行系統指令，也可以直接寫執行python程式碼。  
+2. 掛載完Google Drive，會在虛擬機器裡產生一個drive資料夾，直接將Google Drive當成是一塊硬碟即可。存取drive資料夾裡的文件，就是在存取你的Google Drive裡的文件。  
+3. Colab最多連續使用12小時，超過時間系統會強制掐斷正在運作的程式並收回佔用的虛擬機器。 （好像再次連接到虛擬機器後，虛擬機器是被清空的狀態，需要重新配置和安裝庫等等）
 
 
