@@ -58,16 +58,16 @@ print(a)
 ![image](https://github.com/kevin945290/AI_report/blob/main/F.png)
 
 ## 運行自己的程式碼
-### 1.將.py檔案和其它必要的檔案上傳到Google Drive
+### 1. 將.py檔案和其它必要的檔案上傳到Google Drive
 ![image](https://github.com/kevin945290/AI_report/blob/main/G.png)
 
-### 2.將工作目錄切換到.py檔案所在目錄
+### 2. 將工作目錄切換到.py檔案所在目錄
 ![image](https://github.com/kevin945290/AI_report/blob/main/H.png)
 
-### 3.運行程式碼
+### 3. 運行程式碼
 ![image](https://github.com/kevin945290/AI_report/blob/main/I.png)
 
-### 4.注意事項  
+### 4. 注意事項  
 Linux系統下檔案路徑使用'/'而不是'\'  
 
 ## 總結
