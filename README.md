@@ -5,6 +5,7 @@
 Google Colaboratory是Google開放的一款深度學習的研究工具，主要用於深度學習的開發和研究。這款工具現在可以免費使用，但暫時還是無法確定是不是永久免費。 Google Colab最大的好處是給了廣大的AI開發者免費的GPU和TPU使用！ GPU型號是Tesla K80！你可以在上面輕鬆地跑例如：Keras、Tensorflow、Pytorch等框架。
 
 ## Google Colab基本操作
+網站:[Google Colab](https://colab.research.google.com/)
 進入Google Colab網站-> 歡迎使用 Colab
 ![image](https://github.com/kevin945290/AI_report/blob/main/1.png)
 
