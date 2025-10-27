@@ -19,7 +19,7 @@ print(a)
 ![image](https://github.com/kevin945290/AI_report/blob/main/3.png)
 
 如果想去執行系統指令，只需要在指令前加感嘆號!。例如我們輸入：  
-!ls
+!ls  
 ![image](https://github.com/kevin945290/AI_report/blob/main/4.png)
 
 修改筆記本環境
